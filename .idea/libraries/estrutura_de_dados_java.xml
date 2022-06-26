@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="estrutura-de-dados-java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../estrutura-de-dados-java/out/artifacts/estrutura_de_dados_java_jar/estrutura-de-dados-java.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
