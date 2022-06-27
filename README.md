@@ -14,4 +14,9 @@ forma, iniciando no vértice v, se for encontrado um aresta, cujos vértices est
 vértice u é definido por sua distância do vértice v, assim, se um vértice já foi visitado e o nível dos vértices u e v é o mesmo, implica que um ciclo impar foi
 localizado, então pode-se afirmar que o grafo não é bipartido.
 
-**Maneira escolhida para desenvolver a solução: a.**
+**Maneira escolhida para desenvolver a solução: a.**  
+
+
+[Solução](https://github.com/thiagocezarns/coding-dojo/tree/main/src/main/java/aed)
+
+###### OBS: Esta solução utiliza uma TAD grafo, que você pode encontrar [aqui](https://github.com/thiagocezarns/estrutura-de-dados-em-java).
